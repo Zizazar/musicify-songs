@@ -5,18 +5,18 @@
     {
       "type":"song",
       "name":"Never gonna give you up",
-      "author": "Rick Astley",
-      "speed": 1,
+      "author":"Rick Astley",
+      "speed":1,
       "file":"https://github.com/OmriOn/musicify-songs/raw/main/rickastely.dfpwm",
-      "time": 199
+      "time":199
     },
     {
       "type":"song",
       "name":"Still Alive, Portal",
-      "author": "Valve Team",
-      "speed": 1,
+      "author":"Valve Team",
+      "speed":1,
       "file":"https://github.com/OmriOn/musicify-songs/raw/main/stillalive.dfpwm",
-      "time": 153
+      "time":153
     },
     {
       "type":"song",
