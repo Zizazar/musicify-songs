@@ -273,6 +273,30 @@
       "speed":1,
       "file":"https://github.com/OmriOn/musicify-songs/raw/main/portalradioclean.dfpwm",
       "time":45
+      },
+    {
+      "type":"song",
+      "name":"Elevator music but FNAF keeps sneaking in",
+      "author":"Beatz",
+      "speed":1,
+      "file":"https://github.com/OmriOn/musicify-songs/raw/main/elevatorfnaf.dfpwm",
+      "time":220
+      },
+    {
+      "type":"song",
+      "name":"Here comes the sun",
+      "author":"The Beatles",
+      "speed":1,
+      "file":"https://github.com/OmriOn/musicify-songs/raw/main/herecomesthesun.dfpwm",
+      "time":183
+      },
+    {
+      "type":"song",
+      "name":"A Cabritinha",
+      "author":"Quim Barreiros",
+      "speed":1,
+      "file":"https://github.com/OmriOn/musicify-songs/raw/main/acabritinha.dfpwm",
+      "time":208
     }
   ]
 }
